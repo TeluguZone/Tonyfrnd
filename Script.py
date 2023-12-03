@@ -245,7 +245,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}
+
+JOIN:[MULTIVERSE](https://t.me/MULTIVERSE_OFCL)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
